@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2CMy+name+is+Muhammad+Ahmed+Shahzad;I'm+interested+in+Gaming+and+programming;i+want+to+become+a+game+developer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+%F0%9F%98%89+My+name+is+Muhammad+Ahmed+Shahzad" alt="Typing SVG" /></a>
 ![WELCOME TO MY PROFILE](https://user-images.githubusercontent.com/114295067/219773231-6ffae323-553a-4e4d-b174-aa0ceb056c22.png)
 ![68747470733a2f2f7777772e6c616d626461746573742e636f6d2f7265736f75726365732f696d616765732f6e65777332342e676966](https://user-images.githubusercontent.com/114295067/219774737-4b788bd9-bad0-47fe-b7f5-9f8a02362307.gif)
 
