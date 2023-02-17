@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MUHAMMADAHMEDSHAHZAD
+ 👋 Hi, I’m @MUHAMMADAHMEDSHAHZAD
                                               - ![68747470733a2f2f7777772e6c616d626461746573742e636f6d2f7265736f75726365732f696d616765732f6e65777332342e676966](https://user-images.githubusercontent.com/114295067/219716726-aeee3c3d-8774-494b-a8ca-5e6aeb2ab6ff.gif)
 
 - 👀 I’m interested in ...C++ Language
@@ -13,5 +13,5 @@ You can click the Preview link to take a look at your changes.
 --->
 !
 ![219041405-1247bfad-3566-498d-9e5e-6ef49ed298c1](https://user-images.githubusercontent.com/114295067/219400125-92b2eb1d-7cd3-4ad8-ae92-74e5bcc8b808.gif)
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2CMy+name+is+Muhammad+Ahmed+Shahzad;i+want+to+become+a+Game+Developer+" alt="Typing SVG" /></a>
+
 
