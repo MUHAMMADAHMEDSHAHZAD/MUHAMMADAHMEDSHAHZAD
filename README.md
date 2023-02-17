@@ -13,5 +13,5 @@ You can click the Preview link to take a look at your changes.
 --->
 !
 ![219041405-1247bfad-3566-498d-9e5e-6ef49ed298c1](https://user-images.githubusercontent.com/114295067/219400125-92b2eb1d-7cd3-4ad8-ae92-74e5bcc8b808.gif)
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&width=435&lines=Hi%2CMy+name+is+Muhammad+Ahmed+Shahzad;i+want+to+become+a+Game+Developer+" alt="Typing SVG" /></a>
 
