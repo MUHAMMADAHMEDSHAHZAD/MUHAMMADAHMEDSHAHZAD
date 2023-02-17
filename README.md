@@ -1,7 +1,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2CMy+name+is+Muhammad+Ahmed+Shahzad;i+want+to+become+a+Game+Developer+;i'm+interested+in+gaming" alt="Typing SVG" /></a>
 ![WELCOME TO MY PROFILE](https://user-images.githubusercontent.com/114295067/219773231-6ffae323-553a-4e4d-b174-aa0ceb056c22.png)
 
-                                              (https://user-images.githubusercontent.com/114295067/219716726-aeee3c3d-8774-494b-a8ca-5e6aeb2ab6ff.gif)
+                                              
                                        
 
 
